@@ -74,7 +74,7 @@
 		<!-- See http://checkstyle.sf.net/config_import.html -->
 		<module name="AvoidStarImport">
 			<property name="excludes"
-				value="java.io,java.util,java.net,java.nio,java.nio.channels,java.lang.reflect,org.w3c.dom,org.xml.sax,java.awt,javax.swing,junit.framework,org.junit.Assert,javax.xml.bind.annotation" />
+				value="java.io,java.util,java.net,java.nio,java.nio.channels,java.lang.reflect,org.w3c.dom,org.xml.sax,java.awt,javax.swing,junit.framework,org.junit.Assert,javax.xml.bind.annotation,org.junit.jupiter.api.Assertions" />
 		</module>
 		<module name="IllegalImport" /><!-- defaults to sun.* packages -->
 		<module name="RedundantImport" />
