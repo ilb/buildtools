@@ -14,3 +14,4 @@ see https://stackoverflow.com/questions/21024956/how-to-configure-organizing-of-
 5. temporarily disable HiddenField module. not working with "withSomething" chain methods, even with setterCanReturnItsClass.
 see https://groups.google.com/g/checkstyle-devel/c/aPNYF3RC_yU?pli=1
 6. extend LineLength to max of 250 characters instead of 120
+7. disable caseIndent=0 (overrides netbeans default)
