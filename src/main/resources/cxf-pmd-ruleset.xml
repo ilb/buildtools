@@ -97,6 +97,7 @@
         <exclude name="UseObjectForClearerAPI" />
         <exclude name="UseUtilityClass" />
         <exclude name="UselessOverridingMethod" />
+        <exclude name="AbstractClassWithoutAnyMethod"/>
     </rule>
 
     <rule ref="category/java/errorprone.xml">

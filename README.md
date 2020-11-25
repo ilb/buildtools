@@ -19,3 +19,4 @@ see https://groups.google.com/g/checkstyle-devel/c/aPNYF3RC_yU?pli=1
 9. max ParameterNumber limit set to 10
 10. disable InterfaceIsType (interface could extend base and change only type params)
 11. disable MissingSwitchDefault
+12. exclude AbstractClassWithoutAnyMethod for mapstruct abstract mapper classes
