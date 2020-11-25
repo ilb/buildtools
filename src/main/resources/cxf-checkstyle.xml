@@ -174,7 +174,7 @@
 		<!--<module name="IllegalTokenText"/>-->
 		<module name="InnerAssignment" />
 		<!--<module name="MagicNumber"/>-->
-		<module name="MissingSwitchDefault" />
+		<!--<module name="MissingSwitchDefault" />-->
 		<!--module name="ModifiedControlVariable"/-->
 		<module name="SimplifyBooleanExpression" />
 		<module name="SimplifyBooleanReturn" />

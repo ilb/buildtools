@@ -17,4 +17,5 @@ see https://groups.google.com/g/checkstyle-devel/c/aPNYF3RC_yU?pli=1
 7. disable caseIndent=0 (overrides netbeans default)
 8. exclude TooFewBranchesForASwitchStatement
 9. max ParameterNumber limit set to 10
-10. disable InterfaceIsType (interface could extend base and change type params)
+10. disable InterfaceIsType (interface could extend base and change only type params)
+11. disable MissingSwitchDefault
