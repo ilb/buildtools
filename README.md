@@ -20,3 +20,4 @@ see https://groups.google.com/g/checkstyle-devel/c/aPNYF3RC_yU?pli=1
 10. disable InterfaceIsType (interface could extend base and change only type params)
 11. disable MissingSwitchDefault
 12. exclude AbstractClassWithoutAnyMethod for mapstruct abstract mapper classes
+13. exclude SimplifyBooleanReturns for auto generated equals methods
