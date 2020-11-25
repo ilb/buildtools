@@ -99,6 +99,7 @@
         <exclude name="UselessOverridingMethod" />
         <exclude name="AbstractClassWithoutAnyMethod"/>
         <exclude name="SimplifyBooleanReturns"/>
+        <exclude name="CollapsibleIfStatements"/>
     </rule>
 
     <rule ref="category/java/errorprone.xml">

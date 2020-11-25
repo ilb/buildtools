@@ -21,3 +21,4 @@ see https://groups.google.com/g/checkstyle-devel/c/aPNYF3RC_yU?pli=1
 11. disable MissingSwitchDefault
 12. exclude AbstractClassWithoutAnyMethod for mapstruct abstract mapper classes
 13. exclude SimplifyBooleanReturns for auto generated equals methods
+14. exclude CollapsibleIfStatements (These nested if statements could be combined)
